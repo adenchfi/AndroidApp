@@ -14,8 +14,8 @@
         android:layout_height="wrap_content"
         android:text="Yes, I have Homework"
         android:id="@+id/buttYes"
-        android:layout_marginBottom="45dp"
-        android:layout_above="@+id/projectbutt"
+        android:layout_marginTop="104dp"
+        android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true" />
 
     <Button
@@ -33,10 +33,10 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Did you get any homework or projects?"
         android:id="@+id/DidYouGetHw"
-        android:layout_above="@+id/buttYes"
+        android:textSize="20dp"
+        android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="38dp"
-        android:textSize="20dp" />
+        android:layout_marginTop="32dp" />
 
     <Button
         android:layout_width="wrap_content"
