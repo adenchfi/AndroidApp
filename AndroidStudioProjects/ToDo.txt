@@ -1,0 +1,11 @@
+Top Priority:
+Make functioning buttons that switch between screens/activities.
+Store a schedule - doesn't have to be pretty.
+Look into push notifications.
+Make the main screen/activity. 
+
+Medium Priority:
+Extra tutorials. 5 per week
+
+Can slack off on:
+Design and stoof.
